@@ -38,7 +38,7 @@ parts:
       - ubuntu-sdk-libs
       - qtubuntu-desktop
       - qml-module-qtsysteminfo
-#      - ubuntu-defaults-zh-cn
+      - ubuntu-defaults-zh-cn
     snap:
       - -usr/share/doc
       - -usr/include
